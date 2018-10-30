@@ -5,6 +5,8 @@
 >> Changed webpack configurations to accomdoate static assets in development and productions
 >> Added fetching of user data
 >> Started styling and navigation
+
+
 > Got a list of lots from Office of Parking and Transportation 
 > Setup a meeting with the Office of Parking and Transportation Director
 > Worked on slides for the presentation
