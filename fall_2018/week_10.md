@@ -17,7 +17,8 @@
 > More specificially, working on different aspects of the project was a great experience in learning. I started working
 > on database migrations. From there, I worked on the client, the service, and finally the client again. This 
 > gave me a broad experience of working on the web stack. Further, writing the tests was a good experience in verifying
-> the contributions to the project. 
+> the contributions to the project. The bulk of my work was on these tests. I found that this was something I enjoyed, 
+> it was nice to be able to verify that our work was in running order.
 
 > I cannot wait to start again on this project next semester. With the goal of deployment by the end of the year, I am 
 > extremely excited to get working again. 
