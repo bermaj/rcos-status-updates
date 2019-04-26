@@ -32,5 +32,7 @@ project that stemmed from interests not related to RPI, which resulted in me bei
 to try to solve the issues. I hope it is one I can continue working on in the future. 
 
 Contributions can be found here:
+
 https://github.com/Open-Scanner-Serial/Serial-Communication/tree/whistler
+
 https://github.com/Open-Scanner-Serial/Serial-Communication
