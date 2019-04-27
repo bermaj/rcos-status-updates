@@ -1,6 +1,6 @@
 # Last Week's Accomplishments
 
-> Finished speaking with the manufacturer who does not have any documentation available.
+> I followed up with the manufacturer after not hearing back. They never got any documentation from the company they purchased the IP from, so it is not available to send to us.
 
 # This Week's Plan
 
