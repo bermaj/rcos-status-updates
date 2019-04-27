@@ -36,3 +36,5 @@ Contributions can be found here:
 https://github.com/Open-Scanner-Serial/Serial-Communication/tree/whistler
 
 https://github.com/Open-Scanner-Serial/Serial-Communication
+
+https://github.com/Open-Scanner-Serial/OSS
